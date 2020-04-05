@@ -26,6 +26,7 @@
     "bluebird": "3.7.1",
     "cli-spinner": "0.2.10",
     "connected-react-router": "6.6.1",
+    "dotenv": "^8.2.0",
     "forever": "2.0.0",
     "glob": "7.1.6",
     "history": "4.10.1",
